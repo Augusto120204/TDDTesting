@@ -1,0 +1,59 @@
+﻿@model IEnumerable<Productos.Data.Cliente>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Clientes</h2>
+
+<div class="card" style="width:100%;">
+    <div class="card-body">
+        <h5 class="card-title">Lista de clientes</h5>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">@Html.DisplayNameFor(model => model.Codigo)</th>
+                    <th scope="col">@Html.DisplayNameFor(model => model.Cedula)</th>
+                    <th scope="col">@Html.DisplayNameFor(model => model.Nombres)</th>
+                    <th scope="col">@Html.DisplayNameFor(model => model.Apellidos)</th>
+                    <th scope="col">@Html.DisplayNameFor(model => model.FechaNacimiento)</th>
+                    <th scope="col">@Html.DisplayNameFor(model => model.Mail)</th>
+                    <th scope="col">@Html.DisplayNameFor(model => model.Telefono)</th>
+                    <th scope="col">@Html.DisplayNameFor(model => model.Direccion)</th>
+                    <th scope="col">@Html.DisplayNameFor(model => model.Estado)</th>
+                    <th scope="col">Acciones</th> <!-- Nueva columna para los botones -->
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => item.Codigo)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Cedula)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Nombres)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Apellidos)</td>
+                        <td>@item.FechaNacimiento.ToString("dd/MM/yyyy")</td>
+                        <td>@Html.DisplayFor(modelItem => item.Mail)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Telefono)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Direccion)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Estado)</td>
+                        <td>
+                            <a class="btn btn-warning btn-sm" asp-action="Edit" asp-route-id="@item.Codigo">
+                                <i class="bi bi-pencil-square"></i> Editar
+                            </a>
+                            <a class="btn btn-danger btn-sm" asp-action="Delete" asp-route-id="@item.Codigo">
+                                <i class="bi bi-trash"></i> Eliminar
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <p class="text-center">
+            <a class="btn btn-info" asp-action="Create">
+                <i class="bi bi-person-add"></i> Crear Cliente
+            </a>
+        </p>
+    </div>
+</div>

@@ -1,0 +1,105 @@
+﻿@model Productos.Data.Cliente
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Crear Cliente</h1>
+<div class="container">
+    <form asp-action="Create" method="post">
+        @Html.AntiForgeryToken() <!-- Protección CSRF -->
+
+        <div class="row">
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label asp-for="Nombres"></label>
+                    <input asp-for="Nombres" class="form-control" placeholder="Nombres" required>
+                    <span asp-validation-for="Nombres" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label asp-for="Apellidos"></label>
+                    <input asp-for="Apellidos" class="form-control" placeholder="Apellidos" required>
+                    <span asp-validation-for="Apellidos" class="text-danger"></span>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label asp-for="Cedula"></label>
+                    <input asp-for="Cedula" class="form-control" placeholder="Cedula" required>
+                    <span asp-validation-for="Cedula" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label asp-for="Direccion"></label>
+                    <input asp-for="Direccion" class="form-control" placeholder="Dirección" required>
+                    <span asp-validation-for="Direccion" class="text-danger"></span>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label asp-for="Telefono"></label>
+                    <input asp-for="Telefono" class="form-control" placeholder="Teléfono" required pattern="^\d{10}$"
+                        title="El número de teléfono debe contener exactamente 10 dígitos.">
+                    <span asp-validation-for="Telefono" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label asp-for="Mail"></label>
+                    <input asp-for="Mail" type="email" class="form-control" placeholder="example@example.com" required
+                           pattern="^[a-zA-Z0-9._%+-]+&#64;[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$"
+                           title="Ingresa un correo válido, por ejemplo: usuario@dominio.com">
+                    <span asp-validation-for="Mail" class="text-danger"></span>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label asp-for="FechaNacimiento"></label>
+                    <input asp-for="FechaNacimiento" type="date" class="form-control" required min="1900-01-01">
+                    <span asp-validation-for="FechaNacimiento" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label asp-for="Estado"></label>
+                    <select asp-for="Estado" class="form-control" required>
+                        <option value=true>Activo</option>
+                        <option value=false>Inactivo</option>
+                    </select>
+                    <span asp-validation-for="Estado" class="text-danger"></span>
+                </div>
+            </div>
+        </div>
+
+        <button type="submit" class="btn btn-success mt-3" id="btnGuardar">
+            <i class="bi bi-person-plus"></i> Crear Cliente
+        </button>
+    </form>
+</div>
+
+<script>
+    // Restricción de fecha máxima a hoy
+    document.addEventListener("DOMContentLoaded", function () {
+        let fechaNacimiento = document.querySelector('input[name="FechaNacimiento"]');
+        if (fechaNacimiento) {
+            let today = new Date().toISOString().split("T")[0];
+            fechaNacimiento.setAttribute("max", today);
+        }
+    });
+</script>
