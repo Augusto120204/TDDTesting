@@ -3,40 +3,32 @@
   "WorkspaceRootPath": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FBD3B7D-D0B0-4F84-A9FE-5BDF1BB2D778}|ReqnrollTestingProject\\ReqnrollTestingProject.csproj|d:\\almacenamiento\\clases espe\\semestre 6\\2534-pruebas de software\\tdd\\productos\\reqnrolltestingproject\\features\\um001_2.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{1FBD3B7D-D0B0-4F84-A9FE-5BDF1BB2D778}|ReqnrollTestingProject\\ReqnrollTestingProject.csproj|solutionrelative:reqnrolltestingproject\\features\\um001_2.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A3F6FD1E-492B-4DA6-A1BF-587A6D2CE026}|Productos\\Productos.csproj|d:\\almacenamiento\\clases espe\\semestre 6\\2534-pruebas de software\\tdd\\productos\\productos\\data\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F6FD1E-492B-4DA6-A1BF-587A6D2CE026}|Productos\\Productos.csproj|solutionrelative:productos\\data\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FBD3B7D-D0B0-4F84-A9FE-5BDF1BB2D778}|ReqnrollTestingProject\\ReqnrollTestingProject.csproj|d:\\almacenamiento\\clases espe\\semestre 6\\2534-pruebas de software\\tdd\\productos\\reqnrolltestingproject\\features\\sm001_1.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{1FBD3B7D-D0B0-4F84-A9FE-5BDF1BB2D778}|ReqnrollTestingProject\\ReqnrollTestingProject.csproj|solutionrelative:reqnrolltestingproject\\features\\sm001_1.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A3F6FD1E-492B-4DA6-A1BF-587A6D2CE026}|Productos\\Productos.csproj|d:\\almacenamiento\\clases espe\\semestre 6\\2534-pruebas de software\\tdd\\productos\\productos\\models\\clientedataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F6FD1E-492B-4DA6-A1BF-587A6D2CE026}|Productos\\Productos.csproj|solutionrelative:productos\\models\\clientedataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FBD3B7D-D0B0-4F84-A9FE-5BDF1BB2D778}|ReqnrollTestingProject\\ReqnrollTestingProject.csproj|d:\\almacenamiento\\clases espe\\semestre 6\\2534-pruebas de software\\tdd\\productos\\reqnrolltestingproject\\features\\ra001_1.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{1FBD3B7D-D0B0-4F84-A9FE-5BDF1BB2D778}|ReqnrollTestingProject\\ReqnrollTestingProject.csproj|solutionrelative:reqnrolltestingproject\\features\\ra001_1.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A3F6FD1E-492B-4DA6-A1BF-587A6D2CE026}|Productos\\Productos.csproj|d:\\almacenamiento\\clases espe\\semestre 6\\2534-pruebas de software\\tdd\\productos\\productos\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F6FD1E-492B-4DA6-A1BF-587A6D2CE026}|Productos\\Productos.csproj|solutionrelative:productos\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F6FD1E-492B-4DA6-A1BF-587A6D2CE026}|Productos\\Productos.csproj|d:\\almacenamiento\\clases espe\\semestre 6\\2534-pruebas de software\\tdd\\productos\\productos\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F6FD1E-492B-4DA6-A1BF-587A6D2CE026}|Productos\\Productos.csproj|solutionrelative:productos\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBD3B7D-D0B0-4F84-A9FE-5BDF1BB2D778}|ReqnrollTestingProject\\ReqnrollTestingProject.csproj|d:\\almacenamiento\\clases espe\\semestre 6\\2534-pruebas de software\\tdd\\productos\\reqnrolltestingproject\\stepdefinitions\\signupstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBD3B7D-D0B0-4F84-A9FE-5BDF1BB2D778}|ReqnrollTestingProject\\ReqnrollTestingProject.csproj|solutionrelative:reqnrolltestingproject\\stepdefinitions\\signupstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1FBD3B7D-D0B0-4F84-A9FE-5BDF1BB2D778}|ReqnrollTestingProject\\ReqnrollTestingProject.csproj|d:\\almacenamiento\\clases espe\\semestre 6\\2534-pruebas de software\\tdd\\productos\\reqnrolltestingproject\\features\\calculator.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{1FBD3B7D-D0B0-4F84-A9FE-5BDF1BB2D778}|ReqnrollTestingProject\\ReqnrollTestingProject.csproj|solutionrelative:reqnrolltestingproject\\features\\calculator.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FBD3B7D-D0B0-4F84-A9FE-5BDF1BB2D778}|ReqnrollTestingProject\\ReqnrollTestingProject.csproj|d:\\almacenamiento\\clases espe\\semestre 6\\2534-pruebas de software\\tdd\\productos\\reqnrolltestingproject\\stepdefinitions\\sm001_1stepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FBD3B7D-D0B0-4F84-A9FE-5BDF1BB2D778}|ReqnrollTestingProject\\ReqnrollTestingProject.csproj|solutionrelative:reqnrolltestingproject\\stepdefinitions\\sm001_1stepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FBD3B7D-D0B0-4F84-A9FE-5BDF1BB2D778}|ReqnrollTestingProject\\ReqnrollTestingProject.csproj|d:\\almacenamiento\\clases espe\\semestre 6\\2534-pruebas de software\\tdd\\productos\\reqnrolltestingproject\\stepdefinitions\\ra001_1stepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FBD3B7D-D0B0-4F84-A9FE-5BDF1BB2D778}|ReqnrollTestingProject\\ReqnrollTestingProject.csproj|solutionrelative:reqnrolltestingproject\\stepdefinitions\\ra001_1stepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FBD3B7D-D0B0-4F84-A9FE-5BDF1BB2D778}|ReqnrollTestingProject\\ReqnrollTestingProject.csproj|d:\\almacenamiento\\clases espe\\semestre 6\\2534-pruebas de software\\tdd\\productos\\reqnrolltestingproject\\stepdefinitions\\um001_2stepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FBD3B7D-D0B0-4F84-A9FE-5BDF1BB2D778}|ReqnrollTestingProject\\ReqnrollTestingProject.csproj|solutionrelative:reqnrolltestingproject\\stepdefinitions\\um001_2stepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1FBD3B7D-D0B0-4F84-A9FE-5BDF1BB2D778}|ReqnrollTestingProject\\ReqnrollTestingProject.csproj|d:\\almacenamiento\\clases espe\\semestre 6\\2534-pruebas de software\\tdd\\productos\\reqnrolltestingproject\\reqnrolltestingproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{1FBD3B7D-D0B0-4F84-A9FE-5BDF1BB2D778}|ReqnrollTestingProject\\ReqnrollTestingProject.csproj|solutionrelative:reqnrolltestingproject\\reqnrolltestingproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FBD3B7D-D0B0-4F84-A9FE-5BDF1BB2D778}|ReqnrollTestingProject\\ReqnrollTestingProject.csproj|d:\\almacenamiento\\clases espe\\semestre 6\\2534-pruebas de software\\tdd\\productos\\reqnrolltestingproject\\stepdefinitions\\signupstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FBD3B7D-D0B0-4F84-A9FE-5BDF1BB2D778}|ReqnrollTestingProject\\ReqnrollTestingProject.csproj|solutionrelative:reqnrolltestingproject\\stepdefinitions\\signupstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1FBD3B7D-D0B0-4F84-A9FE-5BDF1BB2D778}|ReqnrollTestingProject\\ReqnrollTestingProject.csproj|d:\\almacenamiento\\clases espe\\semestre 6\\2534-pruebas de software\\tdd\\productos\\reqnrolltestingproject\\hooks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,14 +71,6 @@
       "RelativeMoniker": "D:0:0:{1FBD3B7D-D0B0-4F84-A9FE-5BDF1BB2D778}|ReqnrollTestingProject\\ReqnrollTestingProject.csproj|solutionrelative:reqnrolltestingproject\\stepdefinitions\\insertstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3F6FD1E-492B-4DA6-A1BF-587A6D2CE026}|Productos\\Productos.csproj|d:\\almacenamiento\\clases espe\\semestre 6\\2534-pruebas de software\\tdd\\productos\\productos\\models\\clientedataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3F6FD1E-492B-4DA6-A1BF-587A6D2CE026}|Productos\\Productos.csproj|solutionrelative:productos\\models\\clientedataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3F6FD1E-492B-4DA6-A1BF-587A6D2CE026}|Productos\\Productos.csproj|d:\\almacenamiento\\clases espe\\semestre 6\\2534-pruebas de software\\tdd\\productos\\productos\\data\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3F6FD1E-492B-4DA6-A1BF-587A6D2CE026}|Productos\\Productos.csproj|solutionrelative:productos\\data\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1FBD3B7D-D0B0-4F84-A9FE-5BDF1BB2D778}|ReqnrollTestingProject\\ReqnrollTestingProject.csproj|d:\\almacenamiento\\clases espe\\semestre 6\\2534-pruebas de software\\tdd\\productos\\reqnrolltestingproject\\features\\circulo.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{1FBD3B7D-D0B0-4F84-A9FE-5BDF1BB2D778}|ReqnrollTestingProject\\ReqnrollTestingProject.csproj|solutionrelative:reqnrolltestingproject\\features\\circulo.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -114,136 +98,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "RA001_1.feature",
-              "DocumentMoniker": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\ReqnrollTestingProject\\Features\\RA001_1.feature",
-              "RelativeDocumentMoniker": "ReqnrollTestingProject\\Features\\RA001_1.feature",
-              "ToolTip": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\ReqnrollTestingProject\\Features\\RA001_1.feature",
-              "RelativeToolTip": "ReqnrollTestingProject\\Features\\RA001_1.feature",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
-              "WhenOpened": "2025-02-27T00:55:35Z",
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\Productos\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Productos\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\Productos\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Productos\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:01:31.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\Productos\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Productos\\Controllers\\ClienteController.cs",
+              "ToolTip": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\Productos\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Productos\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:01:13.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "SM001_1StepDefinitions.cs",
-              "DocumentMoniker": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\ReqnrollTestingProject\\StepDefinitions\\SM001_1StepDefinitions.cs",
-              "RelativeDocumentMoniker": "ReqnrollTestingProject\\StepDefinitions\\SM001_1StepDefinitions.cs",
-              "ToolTip": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\ReqnrollTestingProject\\StepDefinitions\\SM001_1StepDefinitions.cs",
-              "RelativeToolTip": "ReqnrollTestingProject\\StepDefinitions\\SM001_1StepDefinitions.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwBsAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T00:42:19.769Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "SignupStepDefinitions.cs",
               "DocumentMoniker": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\ReqnrollTestingProject\\StepDefinitions\\SignupStepDefinitions.cs",
               "RelativeDocumentMoniker": "ReqnrollTestingProject\\StepDefinitions\\SignupStepDefinitions.cs",
               "ToolTip": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\ReqnrollTestingProject\\StepDefinitions\\SignupStepDefinitions.cs",
               "RelativeToolTip": "ReqnrollTestingProject\\StepDefinitions\\SignupStepDefinitions.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAwwF0AAABlAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwBAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T17:43:28.832Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Calculator.feature",
-              "DocumentMoniker": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\ReqnrollTestingProject\\Features\\Calculator.feature",
-              "RelativeDocumentMoniker": "ReqnrollTestingProject\\Features\\Calculator.feature",
-              "ToolTip": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\ReqnrollTestingProject\\Features\\Calculator.feature",
-              "RelativeToolTip": "ReqnrollTestingProject\\Features\\Calculator.feature",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
-              "WhenOpened": "2025-02-18T17:04:01.97Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SM001_1.feature",
-              "DocumentMoniker": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\ReqnrollTestingProject\\Features\\SM001_1.feature",
-              "RelativeDocumentMoniker": "ReqnrollTestingProject\\Features\\SM001_1.feature",
-              "ToolTip": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\ReqnrollTestingProject\\Features\\SM001_1.feature",
-              "RelativeToolTip": "ReqnrollTestingProject\\Features\\SM001_1.feature",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
-              "WhenOpened": "2025-02-27T00:41:06.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UM001_2.feature",
-              "DocumentMoniker": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\ReqnrollTestingProject\\Features\\UM001_2.feature",
-              "RelativeDocumentMoniker": "ReqnrollTestingProject\\Features\\UM001_2.feature",
-              "ToolTip": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\ReqnrollTestingProject\\Features\\UM001_2.feature",
-              "RelativeToolTip": "ReqnrollTestingProject\\Features\\UM001_2.feature",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
-              "WhenOpened": "2025-02-26T23:26:32.291Z",
+              "WhenOpened": "2025-02-25T17:43:28.832Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ReqnrollTestingProject.csproj",
-              "DocumentMoniker": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\ReqnrollTestingProject\\ReqnrollTestingProject.csproj",
-              "RelativeDocumentMoniker": "ReqnrollTestingProject\\ReqnrollTestingProject.csproj",
-              "ToolTip": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\ReqnrollTestingProject\\ReqnrollTestingProject.csproj",
-              "RelativeToolTip": "ReqnrollTestingProject\\ReqnrollTestingProject.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-18T17:12:42.575Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UM001_2StepDefinitions.cs",
-              "DocumentMoniker": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\ReqnrollTestingProject\\StepDefinitions\\UM001_2StepDefinitions.cs",
-              "RelativeDocumentMoniker": "ReqnrollTestingProject\\StepDefinitions\\UM001_2StepDefinitions.cs",
-              "ToolTip": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\ReqnrollTestingProject\\StepDefinitions\\UM001_2StepDefinitions.cs",
-              "RelativeToolTip": "ReqnrollTestingProject\\StepDefinitions\\UM001_2StepDefinitions.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAkwFgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T23:32:07.677Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RA001_1StepDefinitions.cs",
-              "DocumentMoniker": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\ReqnrollTestingProject\\StepDefinitions\\RA001_1StepDefinitions.cs",
-              "RelativeDocumentMoniker": "ReqnrollTestingProject\\StepDefinitions\\RA001_1StepDefinitions.cs",
-              "ToolTip": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\ReqnrollTestingProject\\StepDefinitions\\RA001_1StepDefinitions.cs",
-              "RelativeToolTip": "ReqnrollTestingProject\\StepDefinitions\\RA001_1StepDefinitions.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T01:06:26.595Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "WebDriverManager.cs",
-              "DocumentMoniker": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\ReqnrollTestingProject\\Utilities\\WebDriverManager.cs",
-              "RelativeDocumentMoniker": "ReqnrollTestingProject\\Utilities\\WebDriverManager.cs",
-              "ToolTip": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\ReqnrollTestingProject\\Utilities\\WebDriverManager.cs",
-              "RelativeToolTip": "ReqnrollTestingProject\\Utilities\\WebDriverManager.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T16:28:21.027Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "Hooks.cs",
               "DocumentMoniker": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\ReqnrollTestingProject\\Hooks\\Hooks.cs",
               "RelativeDocumentMoniker": "ReqnrollTestingProject\\Hooks\\Hooks.cs",
@@ -255,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "Signup.feature",
               "DocumentMoniker": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\ReqnrollTestingProject\\Features\\Signup.feature",
               "RelativeDocumentMoniker": "ReqnrollTestingProject\\Features\\Signup.feature",
@@ -267,7 +165,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 1,
+              "Title": "ClienteDataAccessLayer.cs",
+              "DocumentMoniker": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\Productos\\Models\\ClienteDataAccessLayer.cs",
+              "RelativeDocumentMoniker": "Productos\\Models\\ClienteDataAccessLayer.cs",
+              "ToolTip": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\Productos\\Models\\ClienteDataAccessLayer.cs",
+              "RelativeToolTip": "Productos\\Models\\ClienteDataAccessLayer.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwAwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T17:39:45.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\Productos\\Data\\Cliente.cs",
+              "RelativeDocumentMoniker": "Productos\\Data\\Cliente.cs",
+              "ToolTip": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\Productos\\Data\\Cliente.cs",
+              "RelativeToolTip": "Productos\\Data\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T17:12:43.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WebDriverManager.cs",
+              "DocumentMoniker": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\ReqnrollTestingProject\\Utilities\\WebDriverManager.cs",
+              "RelativeDocumentMoniker": "ReqnrollTestingProject\\Utilities\\WebDriverManager.cs",
+              "ToolTip": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\ReqnrollTestingProject\\Utilities\\WebDriverManager.cs",
+              "RelativeToolTip": "ReqnrollTestingProject\\Utilities\\WebDriverManager.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:28:21.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReqnrollTestingProject.csproj",
+              "DocumentMoniker": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\ReqnrollTestingProject\\ReqnrollTestingProject.csproj",
+              "RelativeDocumentMoniker": "ReqnrollTestingProject\\ReqnrollTestingProject.csproj",
+              "ToolTip": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\ReqnrollTestingProject\\ReqnrollTestingProject.csproj",
+              "RelativeToolTip": "ReqnrollTestingProject\\ReqnrollTestingProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-18T17:12:42.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "TestCliente.cs",
               "DocumentMoniker": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\TestProductos\\TestCliente.cs",
               "RelativeDocumentMoniker": "TestProductos\\TestCliente.cs",
@@ -279,7 +227,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
+              "Title": "Calculator.feature",
+              "DocumentMoniker": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\ReqnrollTestingProject\\Features\\Calculator.feature",
+              "RelativeDocumentMoniker": "ReqnrollTestingProject\\Features\\Calculator.feature",
+              "ToolTip": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\ReqnrollTestingProject\\Features\\Calculator.feature",
+              "RelativeToolTip": "ReqnrollTestingProject\\Features\\Calculator.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-02-18T17:04:01.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "LoginStepDefinitions.cs",
               "DocumentMoniker": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\ReqnrollTestingProject\\StepDefinitions\\LoginStepDefinitions.cs",
               "RelativeDocumentMoniker": "ReqnrollTestingProject\\StepDefinitions\\LoginStepDefinitions.cs",
@@ -291,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 14,
               "Title": "Insert.feature",
               "DocumentMoniker": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\ReqnrollTestingProject\\Features\\Insert.feature",
               "RelativeDocumentMoniker": "ReqnrollTestingProject\\Features\\Insert.feature",
@@ -303,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "CalculatorStepDefinitions.cs",
               "DocumentMoniker": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\ReqnrollTestingProject\\StepDefinitions\\CalculatorStepDefinitions.cs",
               "RelativeDocumentMoniker": "ReqnrollTestingProject\\StepDefinitions\\CalculatorStepDefinitions.cs",
@@ -315,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 13,
               "Title": "Login.feature",
               "DocumentMoniker": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\ReqnrollTestingProject\\Features\\Login.feature",
               "RelativeDocumentMoniker": "ReqnrollTestingProject\\Features\\Login.feature",
@@ -327,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 15,
               "Title": "ExtentReportsManager.cs",
               "DocumentMoniker": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\ReqnrollTestingProject\\Reports\\ExtentReportsManager.cs",
               "RelativeDocumentMoniker": "ReqnrollTestingProject\\Reports\\ExtentReportsManager.cs",
@@ -339,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 16,
               "Title": "InsertStepDefinitions.cs",
               "DocumentMoniker": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\ReqnrollTestingProject\\StepDefinitions\\InsertStepDefinitions.cs",
               "RelativeDocumentMoniker": "ReqnrollTestingProject\\StepDefinitions\\InsertStepDefinitions.cs",
@@ -351,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 19,
               "Title": "Circulo.cs",
               "DocumentMoniker": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\Productos\\Models\\Circulo.cs",
               "RelativeDocumentMoniker": "Productos\\Models\\Circulo.cs",
@@ -363,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 18,
               "Title": "CirculoStepDefinitions.cs",
               "DocumentMoniker": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\ReqnrollTestingProject\\StepDefinitions\\CirculoStepDefinitions.cs",
               "RelativeDocumentMoniker": "ReqnrollTestingProject\\StepDefinitions\\CirculoStepDefinitions.cs",
@@ -375,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 17,
               "Title": "Circulo.feature",
               "DocumentMoniker": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\ReqnrollTestingProject\\Features\\Circulo.feature",
               "RelativeDocumentMoniker": "ReqnrollTestingProject\\Features\\Circulo.feature",
@@ -387,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 20,
               "Title": "Calculadora.cs",
               "DocumentMoniker": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\Productos\\Models\\Calculadora.cs",
               "RelativeDocumentMoniker": "Productos\\Models\\Calculadora.cs",
@@ -399,31 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\Productos\\Data\\Cliente.cs",
-              "RelativeDocumentMoniker": "Productos\\Data\\Cliente.cs",
-              "ToolTip": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\Productos\\Data\\Cliente.cs",
-              "RelativeToolTip": "Productos\\Data\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T17:12:43.004Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ClienteDataAccessLayer.cs",
-              "DocumentMoniker": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\Productos\\Models\\ClienteDataAccessLayer.cs",
-              "RelativeDocumentMoniker": "Productos\\Models\\ClienteDataAccessLayer.cs",
-              "ToolTip": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\Productos\\Models\\ClienteDataAccessLayer.cs",
-              "RelativeToolTip": "Productos\\Models\\ClienteDataAccessLayer.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAQwBAAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T17:39:45.22Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 21,
               "Title": "Calculator.feature.cs",
               "DocumentMoniker": "D:\\almacenamiento\\Clases ESPE\\Semestre 6\\2534-PRUEBAS DE SOFTWARE\\TDD\\Productos\\ReqnrollTestingProject\\Features\\Calculator.feature.cs",
               "RelativeDocumentMoniker": "ReqnrollTestingProject\\Features\\Calculator.feature.cs",
