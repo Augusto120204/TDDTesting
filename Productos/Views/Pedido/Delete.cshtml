@@ -1,0 +1,44 @@
+﻿@model Productos.Data.Pedido
+
+@{
+    ViewData["Title"] = "Eliminar Pedido";
+}
+
+<h1>Eliminar Pedido</h1>
+
+<div class="container">
+    <h3>¿Estás seguro de que deseas eliminar este pedido?</h3>
+    <hr />
+
+    <dl class="row">
+        <dt class="col-sm-3">Código</dt>
+        <dd class="col-sm-9">@Model.PedidoID</dd>
+
+        <dt class="col-sm-3">Cliente ID</dt>
+        <dd class="col-sm-9">@Model.ClienteID</dd>
+
+        <dt class="col-sm-3">Monto</dt>
+        <dd class="col-sm-9">@Model.Monto</dd>
+
+        <dt class="col-sm-3">Fecha del Pedido</dt>
+        <dd class="col-sm-9">@Model.FechaPedido.ToShortDateString()</dd>
+
+        <dt class="col-sm-3">Estado</dt>
+        <dd class="col-sm-9">@Model.Estado</dd>
+    </dl>
+
+    <form asp-action="Delete" method="post">
+        @Html.AntiForgeryToken()
+
+        <!-- Campo oculto para enviar el ID del pedido -->
+        <input type="hidden" asp-for="PedidoID" />
+
+        <button type="submit" class="btn btn-danger" id="btnEliminar">
+            <i class="bi bi-trash"></i> Eliminar
+        </button>
+
+        <a asp-action="Index" class="btn btn-secondary">
+            <i class="bi bi-arrow-left"></i> Cancelar
+        </a>
+    </form>
+</div>

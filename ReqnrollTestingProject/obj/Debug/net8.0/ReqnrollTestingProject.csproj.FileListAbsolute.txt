@@ -321,3 +321,4 @@ D:\almacenamiento\Clases ESPE\Semestre 6\2534-PRUEBAS DE SOFTWARE\TDD\Productos\
 D:\almacenamiento\Clases ESPE\Semestre 6\2534-PRUEBAS DE SOFTWARE\TDD\Productos\ReqnrollTestingProject\bin\Debug\net8.0\ExtentReports.dll
 D:\almacenamiento\Clases ESPE\Semestre 6\2534-PRUEBAS DE SOFTWARE\TDD\Productos\ReqnrollTestingProject\bin\Debug\net8.0\RazorEngine.NetCore.dll
 D:\almacenamiento\Clases ESPE\Semestre 6\2534-PRUEBAS DE SOFTWARE\TDD\Productos\ReqnrollTestingProject\bin\Debug\net8.0\System.Reactive.dll
+D:\almacenamiento\Clases ESPE\Semestre 6\2534-PRUEBAS DE SOFTWARE\TDD\Productos\ReqnrollTestingProject\obj\Debug\net8.0\ReqnrollTestingProject.sourcelink.json

@@ -249,3 +249,4 @@ D:\almacenamiento\Clases ESPE\Semestre 6\2534-PRUEBAS DE SOFTWARE\TDD\Productos\
 D:\almacenamiento\Clases ESPE\Semestre 6\2534-PRUEBAS DE SOFTWARE\TDD\Productos\Productos\bin\Debug\net8.0\xunit.core.dll
 D:\almacenamiento\Clases ESPE\Semestre 6\2534-PRUEBAS DE SOFTWARE\TDD\Productos\Productos\bin\Debug\net8.0\xunit.execution.dotnet.dll
 D:\almacenamiento\Clases ESPE\Semestre 6\2534-PRUEBAS DE SOFTWARE\TDD\Productos\Productos\bin\Debug\net8.0\Xunit.SkippableFact.dll
+D:\almacenamiento\Clases ESPE\Semestre 6\2534-PRUEBAS DE SOFTWARE\TDD\Productos\Productos\obj\Debug\net8.0\Productos.sourcelink.json

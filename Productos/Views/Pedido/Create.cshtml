@@ -1,0 +1,67 @@
+﻿@model Productos.Data.Pedido
+
+@{
+    ViewData["Title"] = "Crear Pedido";
+}
+
+<h1>Crear Pedido</h1>
+<div class="container">
+    <form asp-action="Create" method="post">
+        @Html.AntiForgeryToken() <!-- Protección CSRF -->
+
+        <div class="row">
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label asp-for="ClienteID"></label>
+                    <input asp-for="ClienteID" class="form-control" placeholder="Cliente ID" required>
+                    <span asp-validation-for="ClienteID" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label asp-for="Monto"></label>
+                    <input asp-for="Monto" class="form-control" placeholder="Monto" required type="number" step="0.01" min=0>
+                    <span asp-validation-for="Monto" class="text-danger"></span>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label asp-for="FechaPedido"></label>
+                    <input asp-for="FechaPedido" type="date" class="form-control" required>
+                    <span asp-validation-for="FechaPedido" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label asp-for="Estado"></label>
+                    <select asp-for="Estado" class="form-control" required>
+                        <option value="Pendiente">Pendiente</option>
+                        <option value="En Proceso">En Proceso</option>
+                        <option value="Completado">Completado</option>
+                    </select>
+                    <span asp-validation-for="Estado" class="text-danger"></span>
+                </div>
+            </div>
+        </div>
+
+        <button type="submit" class="btn btn-success mt-3" id="btnGuardar">
+            <i class="bi bi-cart-plus"></i> Crear Pedido
+        </button>
+    </form>
+</div>
+
+<script>
+    // Restricción de fecha máxima a hoy (opcional)
+    document.addEventListener("DOMContentLoaded", function () {
+        let fechaPedido = document.querySelector('input[name="FechaPedido"]');
+        if (fechaPedido) {
+            let today = new Date().toISOString().split("T")[0];
+            fechaPedido.setAttribute("max", today);
+        }
+    });
+</script>
